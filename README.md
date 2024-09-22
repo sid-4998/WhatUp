@@ -1,1 +1,2 @@
-# nextjs-whatsapp-clone-starter
+# Full Stack Real Time Chat Application
+
